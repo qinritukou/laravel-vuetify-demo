@@ -17,3 +17,7 @@ npm install
 php artisan serve
 npm run hot
 ```
+
+## ビデオチュートリアル
+
+[Laravel Vuetify Demo](https://www.youtube.com/watch?v=nWC6DJW0Fw0)
