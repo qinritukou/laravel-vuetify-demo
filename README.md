@@ -20,4 +20,4 @@ npm run hot
 
 ## ビデオチュートリアル
 
-[Laravel Vuetify Demo](https://www.youtube.com/watch?v=nWC6DJW0Fw0)
+[Laravel Vuetify Demo](https://www.youtube.com/watch?v=p2h4aCBR2uA)
